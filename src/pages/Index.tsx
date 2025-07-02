@@ -23,8 +23,9 @@ const Index = () => {
         className="relative z-10 py-20 bg-gradient-to-b from-white to-gray-50"
       >
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
-          <h1 className="text-5xl md:text-6xl font-bold text-black mb-6">
-            КИТ<span className="text-gray-600">АВТО</span>
+          <h1 className="text-5xl md:text-6xl font-bold mb-6">
+            <span className="text-red-600">КИТ</span>
+            <span className="text-orange-500">АВТО</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
             Запчасти для китайских автомобилей с доставкой по всей России.
