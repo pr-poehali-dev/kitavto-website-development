@@ -5,37 +5,37 @@ import Icon from "@/components/ui/icon";
 const brands = [
   {
     name: "Geely",
-    logo: "🐉",
+    logo: "🚗",
     models: ["Atlas", "Coolray", "Tugella", "Emgrand"],
     partsCount: "2,500+",
   },
   {
     name: "BYD",
-    logo: "⚡",
+    logo: "🚙",
     models: ["Tang", "Song", "Qin", "Han"],
     partsCount: "1,800+",
   },
   {
     name: "Chery",
-    logo: "🔧",
+    logo: "🚕",
     models: ["Tiggo", "Arrizo", "Exeed", "Omoda"],
     partsCount: "3,200+",
   },
   {
     name: "Great Wall",
-    logo: "🏔️",
+    logo: "🚐",
     models: ["Haval", "Wey", "Ora", "Tank"],
     partsCount: "2,100+",
   },
   {
     name: "Changan",
-    logo: "🌟",
+    logo: "🚘",
     models: ["CS75", "Eado", "UNI-T", "CS35"],
     partsCount: "1,500+",
   },
   {
     name: "JAC",
-    logo: "⚙️",
+    logo: "🛻",
     models: ["S3", "S4", "T6", "iEV"],
     partsCount: "900+",
   },
