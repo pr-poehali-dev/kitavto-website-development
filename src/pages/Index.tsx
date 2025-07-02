@@ -28,7 +28,7 @@ const Index = () => {
             <span className="text-orange-500">АВТО</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-            Запчасти для китайских автомобилей с доставкой по всей России.
+            Запчасти для китайских автомобилей с доставкой в Краснодаре.
             Качественные детали, оригинальные и аналоги по лучшим ценам.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
